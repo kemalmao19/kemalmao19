@@ -8,6 +8,16 @@
 
 kemalmao19/kemalmao19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
+<a href="elgharuty.com">   
+<img 
+  src="https://github.com/kemalmao19/kemalmao19/blob/main/rhymeflakes.png" 
+  alt="elgharuty.com"
+  style="margin-top:20px;margin-right:13px"
+  align="left" 
+  height="400px"
+/>
+</a>
+
 ## Hello 😊
 
 ```python
