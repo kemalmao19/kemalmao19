@@ -35,8 +35,8 @@ class myProfile:
         "ML",
         "Data Science",
         "piece of math",
-        "dad jokes",
-        "Bio+soil informatics"
+        "🏃🏻 + 🨄",
+        "Bio + soil informatics"
         ]
 
 ```
