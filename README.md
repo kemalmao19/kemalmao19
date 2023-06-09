@@ -19,20 +19,21 @@ You can click the Preview link to take a look at your changes. --->
 
 ```python
 
-def myPofile(👀):
-    name = "kemal"
-    username = "kemalmao"
-    workplace = "?"
-    organization = [
+class myProfile:
+    def __init__(self):
+    self.name = "kemal 👀"
+    self.username = "kemalmao 👋"
+    self.workplace = "?"
+    self.organization = [
         "elgharuty.com"
         ]
-    city = "nomaden, 🇮🇩"
-    lang = ["id", "en", "ar"]
-    interests = [
+    self.city = "nomaden, 🇮🇩"
+    self.lang = ["id", "en", "ar"]
+    self.interests = [
         "λ programming",
         "Python",
         "ML",
-        "Chess + Running",
+        "Data Science",
         "piece of math",
         "dad jokes",
         "Bio+soil informatics"
