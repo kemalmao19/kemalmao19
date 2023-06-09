@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes. --->
 <img 
   src="https://github.com/kemalmao19/kemalmao19/blob/main/rhymeflakes.png" 
   alt="elgharuty.com"
-  style="margin-top:20px;margin-right:13px"
+  style="margin-top:40px;margin-right:13px"
   align="left" 
   height="400px"
 />
