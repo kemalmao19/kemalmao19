@@ -9,26 +9,25 @@
 kemalmao19/kemalmao19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
 
-```rescript
+```python
 
-module Kem = {
-  let name = "kemal"
-  let username = "kemalmao"
-  let workplace = "?"
-  let organization = [
-    "elgharuty.com"
-  ]
-  let city = "xxxx, 🇮🇩"
-  let lang = [ "id", "en", "ar" ]
-  let interests = [
-    "λ programming",
-    "Python",
-    "Religion",
-    "tooling",
-    "piece of math",
-    "dad jokes",
-    "Bio+soil informatics"
-  ]
-}
+def Kem():
+    name = "kemal"
+    username = "kemalmao"
+    workplace = "?"
+    organization = [
+        "elgharuty.com"
+    ]
+    city = "xxxx, 🇮🇩"
+    lang = ["id", "en", "ar"]
+    interests = [
+        "λ programming",
+        "Python",
+        "Religion",
+        "Chess + Running",
+        "piece of math",
+        "dad jokes",
+        "Bio+soil informatics"
+    ]
 
 ```
