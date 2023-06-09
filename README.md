@@ -8,17 +8,18 @@
 
 kemalmao19/kemalmao19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
+Hello 😊
 
 ```python
 
-def Kem():
+def myPofile():
     name = "kemal"
     username = "kemalmao"
     workplace = "?"
     organization = [
         "elgharuty.com"
-    ]
-    city = "xxxx, 🇮🇩"
+        ]
+    city = "nomaden, 🇮🇩"
     lang = ["id", "en", "ar"]
     interests = [
         "λ programming",
