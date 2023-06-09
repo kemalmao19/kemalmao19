@@ -41,4 +41,4 @@ def myPofile(👀):
 ```
 
 # Latest Activity
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&hide_progress=true)
