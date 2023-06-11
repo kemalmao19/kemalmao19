@@ -19,25 +19,26 @@ You can click the Preview link to take a look at your changes. --->
 
 ```python
 
-class myProfile:
-    def __init__(self):
-    self.name = "kemal 👀"
-    self.username = "kemalmao 👋"
-    self.workplace = "?"
-    self.organization = [
-        "elgharuty.com"
-        ]
-    self.city = "nomaden, 🇮🇩"
-    self.lang = ["id", "en", "ar"]
-    self.interests = [
-        "λ programming",
-        "Python",
-        "ML",
-        "Data Science",
-        "piece of math",
-        "🏃🏻 + 🨄",
-        "Bio + soil informatics"
-        ]
+def create_profile():
+    profile = {
+        "name": "kemal 👀",
+        "username": "kemalmao 👋",
+        "workplace": "?",
+        "organization": [
+            "elgharuty.com"
+            ],
+        "city": "nomaden, 🇮🇩",
+        "lang": ["id", "en", "ar"],
+        "interests": [
+            "λ programming",
+            "Python",
+            "ML",
+            "Data Science",
+            "piece of math",
+            "🏃🏻 + 🨄",
+            "Bio + soil informatics"
+            ]
+        }
 
 ```
 
