@@ -46,7 +46,10 @@ def create_profile():
 
 # Latest Activity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kemalmao19&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github&theme=nord)
+
+https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github
+
 
 
 
