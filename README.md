@@ -47,7 +47,7 @@ def create_profile():
 # Latest Activity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&layout=compact&theme=tokyonight)
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kemalmao19&rank_icon=github&theme=nord) --->
-
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=kemalmao19&)
 
 
 
