@@ -47,6 +47,8 @@ def create_profile():
 # Latest Activity
 <!--- ![](https://komarev.com/ghpvc/?username=kemalmao19) --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&layout=compact&theme=tokyonight)
+
+<!---[![Readme Card](https://github-readme-stats.vercel.app/api?username=kemalmao19&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/kemalmao19/github-readme-stats) --->
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kemalmao19&rank_icon=github&theme=nord) --->
 <!---  ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=kemalmao19&) --->
 
