@@ -46,7 +46,7 @@ def create_profile():
 
 # Latest Activity
 <!--- ![](https://komarev.com/ghpvc/?username=kemalmao19) --->
-| <div><a href="https://github.com/kemalmao19"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalmao19&count_private=true&hide_border=true" alt="kemals stats" /></a> | <a href="https://github.com/kemalmao19"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&layout=compact&theme=tokyonight" /></a></div>|
+| <div><a href="https://github.com/kemalmao19"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalmao19&count_private=true&hide_border=true" alt="kemals stats" /></a> | <a href="https://github.com/kemalmao19"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&hide_progress=true&theme=tokyonight" /></a></div>|
 | ------------- | ------------- |
 
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&layout=compact&theme=tokyonight)--->
