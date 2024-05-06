@@ -46,10 +46,10 @@ def create_profile():
 
 # Latest Activity
 <!--- ![](https://komarev.com/ghpvc/?username=kemalmao19) --->
-| <div><a href="https://github.com/kemalmao19"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalmao19&count_private=true&hide_border=true" alt="kemals stats" /></a> | <a href="https://github.com/kemalmao19"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&hide_progress=true&theme=tokyonight" /></a></div>|
-| ------------- | ------------- |
+<!---| <div><a href="https://github.com/kemalmao19"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalmao19&count_private=true&hide_border=true" alt="kemals stats" /></a> | <a href="https://github.com/kemalmao19"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&hide_progress=true&theme=tokyonight" /></a></div>|
+| ------------- | ------------- |--->
 
-<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&layout=compact&theme=tokyonight)--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalmao19&layout=compact&theme=tokyonight)
 
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api?username=kemalmao19&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/kemalmao19/github-readme-stats) --->
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kemalmao19&rank_icon=github&theme=nord) --->
