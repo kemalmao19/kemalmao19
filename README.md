@@ -13,15 +13,16 @@ You can click the Preview link to take a look at your changes. --->
   alt="elgharuty.com"
   style="margin-top:20px;margin-right:13px"
   align="left" 
-  height="400px"
+  weith = "200px"
+  height="200px"
 />
 </a>
 
 ```rust
 
-Kemal ⊢ (location: Indonesia) ∧ (role: AspiringSoftwareEngineer)
+Kemal ⊢ (location: 🇮🇩 ) ∧ (role: AspiringSWE)
 --------------------------------------------------------------
- ∀x ∈ Passion: x ∈ {Coding, ProblemSolving, FullStackDev}
+ ∀x ∈ Passion: x ∈ {Coding, ProblemSolving, FullStack}
  ∀y ∈ Skills: y ∈ {JS, TS, PY, React | Nextjs, Node, Express}
  ∀z ∈ Status: z ∈ {Learning, Building, Growing}
 --------------------------------------------------------------
