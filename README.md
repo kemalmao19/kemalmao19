@@ -19,28 +19,7 @@ You can click the Preview link to take a look at your changes. --->
 
 ```python
 
-def create_profile():
-    profile = {
-        "name": "kemal 👀",
-        "username": "kemalmao 👋",
-        "workplace": "?",
-        "organization": [
-            "elgharuty.com"
-            ],
-        "city": "nomaden, 🇮🇩",
-        "lang": ["id", "en", "ar"],
-        "interests": [
-            "λ programming",
-            "Python",
-            "ML",
-            "Data Science",
-            "piece of math",
-            "🏃🏻 + 🨄",
-            "Bio + soil informatics"
-            ]
-        }
-        
-    return profile
+Hallo iam kemal, aspiring software engineer.
 
 ```
 
