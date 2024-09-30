@@ -17,9 +17,14 @@ You can click the Preview link to take a look at your changes. --->
 />
 </a>
 
-```python
+```rust
 
-Hallo iam kemal, aspiring software engineer.
+Kemal ⊢ (location: Indonesia) ∧ (role: AspiringSoftwareEngineer)
+--------------------------------------------------------------
+ ∀x ∈ Passion: x ∈ {Coding, ProblemSolving, FullStackDev}
+ ∀y ∈ Skills: y ∈ {JS, TS, PY, React | Nextjs, Node, Express}
+ ∀z ∈ Status: z ∈ {Learning, Building, Growing}
+--------------------------------------------------------------
 
 ```
 
